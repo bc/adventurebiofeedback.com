@@ -1,5 +1,7 @@
 # No child should have their sense of expression suppressed
 Yet, for more than half of all children affected by Cerebral Palsy (CP: a common lifelong congenital disorder), effective vocal communication is set back by difficulties with speech volume, articulation, word formation, among others. Traditional speech therapy has proven benefits, but visits to the doctor and repetitive exercises make therapy itself a hurdle for many. It is inaccessible to low-income mothers and fathers who cannot afford the travel time or payments. Today’s voice-assistant infrastructure can be leveraged to deliver treatment that matches or exceeds outcomes of traditional speech therapy. This would not be possible without the new social ubiquity of voice assistants in the home, the accessibility of AI voice analysis algorithms, and established therapeutic techniques, such as Lee Silverman Voice Therapy (LSVT Loud). 
+
+
 <a href="http://eepurl.com/glffLj">Stay informed by joining our Beta community here!</a>
 
 Contact us: <a href="mailto:claine@usc.edu?subject=AdventureBiofeedback">claine@usc.edu</a>
