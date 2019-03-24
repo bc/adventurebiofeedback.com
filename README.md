@@ -1,7 +1,7 @@
 # No child should have their sense of expression suppressed
 Distance and cost should not determine access to therapy for children with speech disorders.
 <br>
-<a href="http://eepurl.com/glffLj"><button type="button">Join our beta community!</button></a>
+<a href="http://eepurl.com/glffLj"><button type="button" class="w3-button w3-indigo">Join our beta community!</button></a>
 
 <br>
 Contact us: <a href="mailto:claine@usc.edu?subject=AdventureBiofeedback">claine@usc.edu</a>
